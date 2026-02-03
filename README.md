@@ -1,5 +1,4 @@
-# COL106 Long Assignment 2: SocialNet Simulator
-Submitted by Sidharth Valsan, 2024MT10433 on November 5 2025.
+# Social Network Simulator
 
 ## Introduction
 
@@ -124,5 +123,5 @@ The program provides a command-line interface for managing the social network.
 
 ## File Structure
 
-* `LA2.cpp`: Main source file containing all implementations
+* `socialnet.cpp`: Main source file containing all implementations
 * `run.sh`: Shell script to compile and run the program.
