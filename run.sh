@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Compiling LA2.cpp"
-g++ -std=c++17 -O2 -Wall -Wextra LA2.cpp -o socialnet
+echo "Compiling socialnet.cpp"
+g++ -std=c++17 -O2 -Wall -Wextra socialnet.cpp -o socialnet
 
 if [ $? -eq 0 ]; then
     echo "Compilation successful."
